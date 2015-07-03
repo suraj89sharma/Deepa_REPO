@@ -1,0 +1,4 @@
+http://searchsoa.techtarget.com/definition/UDDI
+http://searchsoa.techtarget.com/answer/What-is-UDDI
+http://www.ibm.com/developerworks/library/ws-tip-uddijava/
+http://searchsoa.techtarget.com/answer/What-role-will-UDDI-play-in-Web-services-applications
